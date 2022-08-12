@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mandelbrot
+date: 2022-08-13
 ---
 
 # Mandelbrot

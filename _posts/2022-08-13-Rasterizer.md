@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Rasterizer
+date: 2022-08-13
 ---
 
 # Rasterizer
