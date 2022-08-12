@@ -1,7 +1,9 @@
 ---
-layout: page
 title: Rasterizer
+author: Cheng-David
 date: 2022-08-13
+categories: [Project, Class]
+tags: [Rasterizer]
 ---
 
 # Rasterizer
