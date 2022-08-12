@@ -1,7 +1,7 @@
 ---
 title: Mandelbrot
 author: Cheng-David
-date: 2022-08-13
+date: 2022-08-12
 categories: [Project, Class]
 tags: [Mandelbrot]
 ---
